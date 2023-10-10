@@ -1614,6 +1614,7 @@ ResearchMarauderMagrailMunitions/BarracksTechLab=E
 ResearchMarauderMagrailMunitions/BarracksTechReactor=E
 ResearchMatrix/BarracksTechLab=
 ResearchMedic/ScienceFacility=T
+ResearchMedivacEnergyUpgrade/FusionCore=F
 ResearchMedivacEnergyUpgrade/StarportTechLab=D
 ResearchMedivacEnergyUpgrade/StarportTechReactor=D
 ResearchMultiLockTargetingSystem/FactoryTechLab=F
@@ -2457,4 +2458,3 @@ zerglingattackspeed/SpawningPool=D
 zerglingmovementspeed/SpawningPool=E
 zergmeleeweapons1/EvolutionChamber=D
 zergmissileweapons1/EvolutionChamber=F
-
